@@ -1,6 +1,4 @@
-Salve + Vidas Administrador
-Esse projeto È um complemento ao outro projeto "SalveVidas" que foi o meu projeto de TCC que apresentei na 
-faculdade, a ideia era criar um aplicativo que permiticia aos usuarios criarem campanhas de doaÁ„o de sangue com 
-base na sua localizaÁ„o cadastrada. Esse projeto serviria mais como uma facilitaÁ„o pois ele permite o cadastro de 
-hospitais e usuarios atraves do aplicativo ao invÈs de ser diretamente no banco de dados atravÈs de inserts. 
-O cÛdigo em si n„o foi muito bem estruturado igual ao outro projeto, porÈm funcionou perfeitamente para a ideia que tive.
+# Salve + Vidas Administrador
+Esse projeto √© um complemento ao outro projeto "SalveVidas" que foi o meu projeto de TCC que apresentei na faculdade, a ideia era criar um aplicativo que permiticia aos    usuarios criarem campanhas de doa√ß√£o de sangue com base na sua localiza√ß√£o cadastrada. 
+Esse projeto serviria mais como uma facilita√ß√£o pois ele permite o cadastro de hospitais e usuarios atraves do aplicativo ao inv√©s de ser diretamente no banco de dados     atrav√©s de inserts. 
+O c√≥digo em si n√£o foi muito bem estruturado igual ao outro projeto, por√©m funcionou perfeitamente para a ideia que tive.
